@@ -1,0 +1,93 @@
+
+*** Full Changelog ***
+
+### 03.08.2025 ###
+
+• Return Gapps
+• Return EROFS file system
+• Fixed Dolby
+
+### 29.07.2025 ###
+
+• Fixing connecting BLE (bt 5.x) devices (smart watches, etc.)
+• Fingerprint styles and animations included
+• Enable freeform multi-windows
+• Added support for Dolby Vision
+• Switch to EXT4 file system
+• Switch to Vanilla build
+• Switch to Dolby Atmos
+• System more stability and etc.
+
+### 12.07.2025 ###
+
+• Added switch to the compact media player in the QS panel
+• Add recents and app drawer opacity customization
+• Change the default color profile to P3
+• Added switch to the QS panel A16 style
+• Introduce High Brightness Mode (HBM)
+• Fixed Top speaker on Lock screen
+• Switch to 64-bit audio library
+• Fixed some audio issues
+• Switch to JamesDSP
+• Some improvements
+
+### 03.07.2025 ###
+
+• Hardcode recent overview color in dark mode
+• Change the default icon size to 110%
+• Add mem info background chip
+• Fixed auto brightness
+• Fixed sound issue
+
+### 02.07.2025 ###
+
+• Improve the sound quality by adjusting the volume and controlling the speakers
+• Change the default color profile to Vivid
+• Switch to Proton kernel with KSU+SuSFS
+• Change the display saturation to 118%
+• Enable QTI Memory Optimization
+• Enable PCM path for VoIP calls
+• Enable Dolby Vision support
+• Return the old A15 style
+• Improve auto brightness
+• Added support for BCR
+
+### 01.07.2025 ###
+
+• Bring back the old style of qs panel A15
+
+### 30.06.2025 ###
+
+• Increase the volume of the speaker, microphone, speaker, headphones
+• Initial and final composition time optimization
+• Hardware acceleration enablement
+• Reduce system idle time
+• Touch timer adjustment
+
+### 29.06.2025 ###
+
+• Optimize java for system processes
+• Stock recovery replacement removed
+• Added KernelSU-next+SusFS support
+• Minor changes and improvements
+• Improved microphone quality
+• Updated source code v11.6
+• Activated new design A16
+• Added OTA support
+
+### 24.06.2025 ###
+
+• Initial stable release
+• June security patch 
+
+======================================================
+
+• Clean Flash Is Mandatory
+• Use Latest FW for Region's
+• EROFS build
+• Included ViperFX, MiuiCamera, KernelSU-next+SusFS, BCR
+
+======================================================
+
+• Thanks for the base trees @grewal
+• Thanks for the tester @MyRegion, @ZAKPbITO
