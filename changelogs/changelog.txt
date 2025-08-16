@@ -1,6 +1,16 @@
 
 *** Full Changelog ***
 
+### 16.08.2025 ###
+
+• Enable ADPF CPU hints for improved UI performance
+• Disable Setup Wizard by defafult
+• Enable vibrate Icon Animation
+• Return Proton kernel v1.2
+• Enable haptic text cursor
+• August Security Patch
+• Switch to OSS NFC
+
 ### 07.08.2025 ###
 
 • Update proton kernel to version 1.3
