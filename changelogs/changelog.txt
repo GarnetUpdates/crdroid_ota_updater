@@ -1,6 +1,17 @@
 
 *** Full Changelog ***
 
+### 31.08.2025 ###
+
+• Updating the source code
+• Upgrade Proton kernel to version 1.5
+• Updating firmware to version 2.0.202 GLOBAL MI
+• System more stability and etc
+
+***********************************************
+* Use only firmware version 2.0.202 GLOBAL MI *
+***********************************************
+
 ### 16.08.2025 ###
 
 • Enable ADPF CPU hints for improved UI performance
