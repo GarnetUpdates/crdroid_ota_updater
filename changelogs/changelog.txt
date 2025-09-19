@@ -11,9 +11,11 @@
 • Fixed calls, speakerphone
 • Many other improvements and etc.
 
-***********************************************
-* CLEAN INSTALLATION IS RECOMMENDED *
-***********************************************
+***************************************************
+*       CLEAN INSTALLATION IS RECOMMENDED         *
+*      DON'T WRITE TO ME ABOUT PROBLEMS IF        *
+* IT WAS A DIRTY INSTALLATION OR ANY OTHER ISSUES *
+***************************************************
 
 ### 31.08.2025 ###
 
