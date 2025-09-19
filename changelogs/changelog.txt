@@ -1,6 +1,20 @@
 
 *** Full Changelog ***
 
+### 19.09.2025 ###
+
+• Updating the source code v11.9
+• September Security Patch
+• Fixed memory leak
+• Switch to JamesDSP (This is due to some problems)
+• Switching to new SiLonT kernel
+• Fixed calls, speakerphone
+• Many other improvements and etc.
+
+***********************************************
+* CLEAN INSTALLATION IS RECOMMENDED *
+***********************************************
+
 ### 31.08.2025 ###
 
 • Updating the source code
