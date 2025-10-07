@@ -1,7 +1,7 @@
 
 *** Full Changelog ***
 
-### 07.010.2025 ###
+### 07.10.2025 ###
 
 • Updating source code
 • Updating Linux kernel version
