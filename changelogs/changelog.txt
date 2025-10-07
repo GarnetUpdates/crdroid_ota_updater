@@ -1,6 +1,15 @@
 
 *** Full Changelog ***
 
+### 07.010.2025 ###
+
+• Updating source code
+• Updating Linux kernel version
+• Fixed ringtone via BT
+• Add support KernelSU+SuSFS
+• Return to Dolby
+• Optimization for smoothness and system improvements
+
 ### 19.09.2025 ###
 
 • Updating the source code v11.9
