@@ -1,6 +1,15 @@
 
 *** Full Changelog ***
 
+### 10.10.2025 ###
+
+• Update source code to version 11.10
+• October security patch
+• Update kernel to version 1.2
+• Fixed memory leak in launcher
+• Improved performance and smoothness
+• Switch to new BBR TCP algorithm for better network performance
+
 ### 07.10.2025 ###
 
 • Updating source code
